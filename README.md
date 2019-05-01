@@ -7,5 +7,5 @@
 ![Image alt](https://github.com/Climood/CSharp-SamplesOfMyGameScripts/raw/master/3.jpg)
 ![Image alt](https://github.com/Climood/CSharp-SamplesOfMyGameScripts/raw/master/2.jpg)
 ![Image alt](https://github.com/Climood/CSharp-SamplesOfMyGameScripts/raw/master/1.jpg)
-![Image alt](https://github.com/Climood/CSharp-SamplesOfMyGameScripts/raw/master/gameUnity1.jpg)
-![Image alt](https://github.com/Climood/CSharp-SamplesOfMyGameScripts/raw/master/gameUnity2.jpg)
+![Image alt](https://github.com/Climood/CSharp-SamplesOfMyGameScripts/raw/master/gameUnity1.png)
+![Image alt](https://github.com/Climood/CSharp-SamplesOfMyGameScripts/raw/master/gameUnity2.png)
